@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "web-stack",
+  "private": true,
+  "dependencies": {
+    "@types/jquery": "^2.0.45",
+    "jquery": "^3.2.1",
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.3",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "webpack": "webpack"
+  }
+}
